@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		},
+		{
+			"path": "build"
+		}
+	],
+	
+	"settings": {
+		"files.associations": {
+			"functional": "cpp",
+			"__config": "cpp",
+			"__nullptr": "cpp",
+			"exception": "cpp",
+			"initializer_list": "cpp",
+			"new": "cpp",
+			"stdexcept": "cpp",
+			"typeinfo": "cpp",
+			"iostream": "cpp",
+			"locale": "cpp",
+			"iterator": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
